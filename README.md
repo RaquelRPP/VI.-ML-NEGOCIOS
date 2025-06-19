@@ -56,5 +56,8 @@ It serves as a blueprint for deploying ML projects in business environments, off
 
 For inquiries, potential collaborations, or executive summaries, please contact the project lead or submit an issue or pull request.
 
+<<<<<<< HEAD
 test 
 
+=======
+>>>>>>> faa13f6dab4979fc510dfc3f2668e7a9bcb98b2b
